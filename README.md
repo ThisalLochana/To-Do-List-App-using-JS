@@ -35,6 +35,12 @@ You need a web browser to run this application.
 2. Click on a task to mark it as completed.
 3. Click on the “×” button next to a task to delete it.
 
+## Screenshots
+<img width="959" alt="To-Do List App Screenshot 1" src="https://github.com/user-attachments/assets/f3bb5c45-0778-487f-bffc-840170824d1d">
+
+<img width="959" alt="To-Do List App Screenshot 2" src="https://github.com/user-attachments/assets/95a4521c-ddcb-4d5b-b1b7-dbdeb00feb8a">
+
+
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
