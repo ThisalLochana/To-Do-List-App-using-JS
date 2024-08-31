@@ -28,7 +28,7 @@ You need a web browser to run this application.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/to-do-list-app.git
+   git clone https://github.com/ThisalLochana/To-Do-List-App-using-JS.git
    
 ## Usage
 1. Enter a task in the input box and click the “Add” button to add a new task.
