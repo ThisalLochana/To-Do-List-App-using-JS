@@ -45,4 +45,4 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request
 
 ## Contact
-Your Name - thisallochana1015@gmail.com
+Thisal Lochana - thisallochana1015@gmail.com
